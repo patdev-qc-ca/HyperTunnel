@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Insiders\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(1143,5): warning MSB4211: La propriété "GetTargetPathDependsOn" est définie à une valeur pour la première fois, mais elle a déjà été consommée à "C:\Program Files\Microsoft Visual Studio\18\Insiders\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (2243,5)".
+cl : ligne de commande  warning D9035: l'option 'Gm' est déconseillée et sera supprimée dans une version ultérieure
+  stdafx.cpp
+cl : ligne de commande  warning D9035: l'option 'Gm' est déconseillée et sera supprimée dans une version ultérieure
+  HyperTunnel.cpp
+D:\source\repos\HyperTunnel\HyperTunnel.cpp(10,9): warning C4473: 'printf' : nombre insuffisant d'arguments passés pour la chaîne de format
+  (compiler le fichier source '/HyperTunnel.cpp')
+      D:\source\repos\HyperTunnel\HyperTunnel.cpp(10,9):
+      les espaces réservés et leurs paramètres attendent des arguments 1 variadiques, mais des arguments 0 ont été fournis
+      D:\source\repos\HyperTunnel\HyperTunnel.cpp(10,9):
+      l'argument variadique manquant 1 est demandé par la chaîne de format '%c'
+  
+HyperTunnel.obj : warning LNK4075: ' /EDITANDCONTINUE' ignoré à cause de la spécification '/SAFESEH'
+  HyperTunnel.vcxproj -> D:\source\repos\HyperTunnel\Debug\HyperTunnel.exe
